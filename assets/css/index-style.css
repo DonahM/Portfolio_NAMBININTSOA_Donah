@@ -1,5 +1,5 @@
 @import url(fontawesome.css);
-@import url("https://fonts.googleapis.com/css?family=Roboto:100,300,400,700,900");
+/* @import url("https://fonts.googleapis.com/css?family=Roboto:100,300,400,700,900"); */
 body {
     font-family: 'Roboto', sans-serif;
 	overflow-x: hidden;
@@ -47,7 +47,7 @@ body {
 }   
 
 #page-wraper {
-    background: #4AA0DD no-repeat center center fixed;
+    background: #435969 no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
